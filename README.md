@@ -10,8 +10,8 @@ ls -la -- a shows hidden file
 
 ls -lah -- h mask size readable
 
-cd -- Change directory  
-cd ~ -- Go home
+cd -- Change directory /  
+cd ~ -- Go home /
 cd - -- GO previous directory
 
 pwd -- Print working directory
