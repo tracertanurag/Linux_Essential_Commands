@@ -1,4 +1,5 @@
 #	Topic	Description
+
 01	Navigation & File System	Navigate directories and locate files
 02	File & Directory Operations	Create, copy, move, and delete files
 03	Viewing & Text Processing	Read, search, and manipulate text
