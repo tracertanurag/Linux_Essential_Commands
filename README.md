@@ -1,1 +1,1 @@
-# Detection-query
+# Linux: Essential Commands
