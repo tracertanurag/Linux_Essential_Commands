@@ -3,8 +3,11 @@
 ## 1 File system
 
 ls -- List file
+
 ls -l -- detail listing
+
 ls -la -- a shows hidden file
+
 ls -lah -- h mask size readable
 
 cd -- Change directory  
