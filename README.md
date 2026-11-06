@@ -1,6 +1,6 @@
 # Linux Command Cheat Sheet
 
-A practical Linux command reference for System Administration, Cloud Engineering, and Cybersecurity.
+A practical Linux command reference for Cloud Security and Cybersecurity.
 
 ## 1. Basic Navigation Commands
 
